@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+	
+		<title>Prueba commons</title>
+		
+        <link rel="shortcut icon" href="favicon.ico">
+        <link rel="stylesheet" type="text/css" href="css/styles.css" />
+		<link rel="stylesheet" type="text/css" href="css/base.css" />
+        <link rel="stylesheet" type="text/css" href="css/default.css" />
+		<link rel="stylesheet" type="text/css" href="css/component.css" />
+        <link rel="stylesheet" type="text/css" href="css/estilo.css" />
+         
+		<script src="js/modernizr.custom.js"></script>
+		<script>document.documentElement.className="js";var supportsCssVars=function(){var e,t=document.createElement("style");return t.innerHTML="root: { --tmp-var: bold; }",document.head.appendChild(t),e=!!(window.CSS&&window.CSS.supports&&window.CSS.supports("font-weight","var(--tmp-var)")),t.parentNode.removeChild(t),e};supportsCssVars()||alert("Please view this demo in a modern browser that supports CSS Variables.");</script>
+           <script
+  src="http://code.jquery.com/jquery-3.2.1.slim.min.js"
+  integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g="
+  crossorigin="anonymous"></script>
+  	<!-- Cargamos nuesto archivo Java Script-->
+	<script type="text/javascript" src="functions.js"></script>
+	<!-- Cargamos la fuente de Google Raleway : visitar Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
+	<!-- Cargamos nuestra hoja de estilos -->
+	<link rel="stylesheet" href="css/styles.css">
+	</head>
+    
+	<body class="loading">
+	
+		<main>
+			
+			<div class="content">
+				<div class="background" style="background-image: url(img/fondo2.png)"></div>
+				
+			</div>
+
+			<nav class="menu">
+                             <div id="titulo"  >
+                                 <div class="container-enlarge">
+  <a href="intro.html" title="INTRO">  <img src="css/1.png"></a>
+    <span>  <img src="img/TESTT.png"> </span>
+    
+  </div>
+        <p class="zoom-area">   </p>
+       <div class="link-container">
+</div>
+        </div>
+                
+                <!-- Punto 1 -->
+<div id="wrapper" class="hi-icon-wrap hi-icon-effect-8">
+	<div >
+		<a class="hi-icon" href="texto1.html" title="sizas sizas"><h1>P 1</h1></a>
+	</div>
+    </div>
+    
+    <!-- Punto 2 -->
+    
+    
+			
+    
+    <div id="wrapper2"  class="hi-icon-wrap hi-icon-effect-8">
+	<div >
+		<a href="" title="X ARCHIVO"><h1></h1></a>
+	</div>
+    </div>
+    
+    <!-- Punto 3 -->
+    
+    <div id="wrapper3"  class="hi-icon-wrap hi-icon-effect-8">
+	<div >
+		<a class="hi-icon" href="" title="TEXTO PENNY"><h1></h1></a>
+	</div>
+    </div>
+    
+    <!-- Punto 4 -->
+    
+    <div id="wrapper4"  class="hi-icon-wrap hi-icon-effect-8">
+	<div >
+		<a class="hi-icon" href="" title="Texto 1"><h1>Texto Penny Más Largo</h1></a>
+	</div>
+    </div>
+    
+    <!-- Punto 5 -->
+    
+     <div id="wrapper5"  class="hi-icon-wrap hi-icon-effect-8">
+	<div >
+		<a class="hi-icon" href="" title="Texto 2"><h1>P 5</h1></a>
+	</div>
+    </div>
+    
+      <!-- Punto 6 -->
+    
+     
+                
+			  <!-- Punto 7 -->
+ 
+    
+      <!-- Punto 8 -->
+    
+     
+    
+      <!-- Punto 9 -->
+   
+    
+      <!-- Punto 10-->
+    
+     <div id="wrapper10"  class="hi-icon-wrap hi-icon-effect-8">
+	<div >
+		<a class="hi-icon" href="" title="Texto 2"><h1>P 10</h1></a>
+	</div>
+    </div>
+				
+				
+				
+				
+				<button class="action action--menu"><svg class="icon icon--menu"><use xlink:href="#icon-menu"></use></svg></button>
+				<button class="action action--close"><svg class="icon icon--close"><use xlink:href="#icon-close"></use></svg></button>
+			</nav>
+		</main>
+        
+        
+        
+		<script src="js/imagesloaded.pkgd.min.js"></script>
+		<script src="js/TweenMax.min.js"></script>
+		<script src="js/demo.js"></script>
+           <script>
+			var hash = window.location.hash,
+				current = 0,
+				demos = Array.prototype.slice.call( document.querySelectorAll( '#codrops-demos > a' ) );
+			
+			if( hash === '' ) hash = '#set-1';
+			setDemo( demos[ parseInt( hash.match(/#set-(\d+)/)[1] ) - 1 ] );
+
+			demos.forEach( function( el, i ) {
+				el.addEventListener( 'click', function() { setDemo( this ); } );
+			} );
+
+			function setDemo( el ) {
+				var idx = demos.indexOf( el );
+				if( current !== idx ) {
+					var currentDemo = demos[ current ];
+					currentDemo.className = currentDemo.className.replace(new RegExp("(^|\\s+)" + 'current-demo' + "(\\s+|$)"), ' ');
+				}
+				current = idx;
+				el.className = 'current-demo'; 
+			}
+		</script>
+	</body>
+</html>
