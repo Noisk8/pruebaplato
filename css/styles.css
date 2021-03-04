@@ -64,7 +64,7 @@ background-size: cover;font-size: 1.2em;
 #wrapper > div{
 	position: absolute;
     top: 250px;
-    left: 470px;
+    left: 410px;
 }
 
 
@@ -76,8 +76,8 @@ background-size: cover;font-size: 1.2em;
 
 #wrapper2 > div{
 	position: absolute;
-    top: 100px;
-    left: 560px;
+    top: 70px;
+    left: 590px;
 }
 
 /*PUNTO 3 */
@@ -89,7 +89,7 @@ background-size: cover;font-size: 1.2em;
 #wrapper3 > div{
 	position: absolute;
     top: 270px;
-    left: 700px;
+    left: 740px;
 }
 
 
@@ -101,8 +101,8 @@ background-size: cover;font-size: 1.2em;
 
 #wrapper4 > div{
 	position: absolute;
-    top: 400px;
-    left: 580px;
+    top: 430px;
+    left: 560px;
 }
 
 /*PUNTO 5 */
