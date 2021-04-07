@@ -61,7 +61,7 @@ background-size: cover;font-size: 1.2em;
 .suiche {
 border: 1px solid #2e518b; /*anchura, estilo y color borde*/
 padding: 10px; /*espacio alrededor texto*/
-/*background-color: #2e518b; color botón*/
+background-color: #2e518b; 
 color: #ffffff; /*color texto*/
 text-decoration: none; /*decoración texto*/
 text-transform: uppercase; /*capitalización texto*/ 
