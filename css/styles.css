@@ -1,5 +1,5 @@
-/* Reset css :  Con este código eliminamos márgenes, 
-padding y otras propiedades que los navegadores 
+/* Reset css :  Con este código eliminamos márgenes,
+padding y otras propiedades que los navegadores
 añaden automáticamente */
 html,body,div,span,applet,object,iframe,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
 
@@ -17,14 +17,14 @@ h1 {
     color: white;
     padding:0;
     padding-top: 15%;
-    
+
 
 
 }
 
 
 body{
-    
+
      font-family: 'Inconsolata', monospace;
 	 background-image: url("img/alex.jpg");
 	 background-position: center center;
@@ -58,29 +58,11 @@ background-size: cover;font-size: 1.2em;
 
 /*BOTON*/
 
-.suiche {
-border: 1px solid #ffff00; /*anchura, estilo y color borde*/
-padding: 10px; /*espacio alrededor texto*/
-background-color: rgba(255, 255, 0, .3); 
-color: #FFFFFF; /*color texto*/
-text-decoration: none; /*decoración texto*/
-text-transform: uppercase; /*capitalización texto*/ 
-font-size: 10px;
-border-radius: 50px; /*bordes redondos*/
-}
 
 
 
 
-#wrapper99{
-	padding: 10px 6%;
-}
 
-#wrapper99> div{
-	position: absolute;
-    top: 10px;
-    left: 100px;
-}
 
 
 /*PUNTO 1 */
@@ -88,8 +70,8 @@ border-radius: 50px; /*bordes redondos*/
 
 
 
-    
-    
+
+
 
 #wrapper{
 	padding: 100px 6%;
@@ -290,7 +272,7 @@ a.boton:hover:before{
 
 
 
- 
+
 #activar {display: none;}
 .inputlabel {display: inline-block;height: 20px;line-height: 20px;}
 #activar ~ .inputlabel:before {content: ""; }
@@ -304,8 +286,8 @@ a.boton:hover:before{
 
 .images-container {
   width: 90%;
-  
-  
+
+
 }
 .container-enlarge {
     display: inline-block;
@@ -333,23 +315,19 @@ a.boton:hover:before{
 
 /* demo stuff */
 
-.zoom-area { 
+.zoom-area {
   max-width: 690px;
   margin: 30px auto 30px;
-  
+
 }
 .link-container {
   text-align: center;
 }
 a.more-link {
-    
+
     display: inline-block;
     margin-right: 5px;
     margin-bottom: -5px;
     line-height: 1.5;
     text-decoration: none;
 }
-
-
-
-
