@@ -2,17 +2,17 @@
 <html lang="en" class="no-js">
 	<head>
 		<meta charset="UTF-8" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
-	
-		<title>Curaduría para el buen vivir común</title>
-		
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+		<title>Curating common Well-being</title>
+
         <link rel="shortcut icon" href="favicon.ico">
         <link rel="stylesheet" type="text/css" href="css/styles.css" />
 		<link rel="stylesheet" type="text/css" href="css/base.css" />
         <link rel="stylesheet" type="text/css" href="css/default.css" />
 		<link rel="stylesheet" type="text/css" href="css/component.css" />
         <link rel="stylesheet" type="text/css" href="css/estilo.css" />
-         
+
 		<script src="js/modernizr.custom.js"></script>
 		<script>document.documentElement.className="js";var supportsCssVars=function(){var e,t=document.createElement("style");return t.innerHTML="root: { --tmp-var: bold; }",document.head.appendChild(t),e=!!(window.CSS&&window.CSS.supports&&window.CSS.supports("font-weight","var(--tmp-var)")),t.parentNode.removeChild(t),e};supportsCssVars()||alert("Please view this demo in a modern browser that supports CSS Variables.");</script>
            <script
@@ -26,14 +26,14 @@
 	<!-- Cargamos nuestra hoja de estilos -->
 	<link rel="stylesheet" href="css/styles.css">
 	</head>
-    
+
 	<body class="loading">
-	
+
 		<main>
-			
+
 			<div class="content">
 				<div class="background" style="background-image: url(img/fondo2.png)"></div>
-				
+
 			</div>
 
 			<nav class="menu">
@@ -41,93 +41,93 @@
                                  <div class="container-enlarge">
   <a href="intro2.html" title="INTRO">  <img src="css/1.png"></a>
     <span> <a href="intro2.html"><img  src="img/TESTT.png"></a>  </span>
-    
+
   </div>
         <p class="zoom-area">   </p>
        <div class="link-container">
 </div>
         </div>
-                
+
                 <div id="wrapper99">
-                
+
                 <a class="suiche" href="index.html">English</a>
-                
+
                 </div>
-                
+
                 <!-- Punto 1 -->
 <div id="wrapper" class="hi-icon-wrap hi-icon-effect-8">
 	<div >
-		<a class="hi-icon" href="https://ia601502.us.archive.org/6/items/curating-common-well-being/Platohedro%27s%20principles%20of%20Buen%20Vivir%20.pdf" target="_blank" title="Platohedro_Principios_del_buen_vivir"><h1> </h1></a>
+		<a class="hi-icon" href="" target="_blank" title="Platohedro_Principios_del_buen_vivir"><h1> </h1></a>
 	</div>
     </div>
-    
+
     <!-- Punto 2 -->
-    
-    
-			
-    
+
+
+
+
     <div id="wrapper2"  class="hi-icon-wrap hi-icon-effect-8">
 	<div >
-		<a  class="hi-icon"  href="https://ia601502.us.archive.org/6/items/curating-common-well-being/How%20to%20build%20common%20Well-being%202.pdf" target="_blank" title="How to build common well being"><h1></h1></a>
+		<a  class="hi-icon"  href="" target="_blank" title="How to build common well being"><h1></h1></a>
 	</div>
     </div>
-    
+
     <!-- Punto 3 -->
-    
+
     <div id="wrapper3"  class="hi-icon-wrap hi-icon-effect-8">
 	<div >
-		<a class="hi-icon" href="https://ia601502.us.archive.org/6/items/curating-common-well-being/An%20Opportunity%20to%20Imagine%20Another%20World%E2%80%9DFINAL.pdf" target="_blank" title="Una oportunidad de imaginar otro mundo"><h1> </h1></a>
+		<a class="hi-icon" href="" target="_blank" title="Una oportunidad de imaginar otro mundo"><h1> </h1></a>
 	</div>
     </div>
-    
+
     <!-- Punto 4 -->
-    
+
     <div id="wrapper4"  class="hi-icon-wrap hi-icon-effect-8">
 	<div >
-		<a class="hi-icon" href="https://ia601502.us.archive.org/6/items/curating-common-well-being/Homemade%20Anomaly%20Antenna%202.pdf" target="_blank"  title="Homemade Anomaly Antenna"><h1> </h1></a>
+		<a class="hi-icon" href="" target="_blank"  title="Homemade Anomaly Antenna"><h1> </h1></a>
 	</div>
     </div>
-    
+
     <!-- Punto 5 -->
-    
+
      <div id="wrapper5"  class="hi-icon-wrap hi-icon-effect-8">
 	<div >
 		<a class="hi-icon" href="https://archive.org/details/sintonias-radicales-para-el-buen-vivir" target="_blank"  title="Sintonías radicales para el buen vivir"><h1></h1></a>
 	</div>
     </div>
-    
+
       <!-- Punto 6 -->
-    
-     
-                
+
+
+
 			  <!-- Punto 7 -->
- 
-    
+
+
       <!-- Punto 8 -->
-    
-     
-    
+
+
+
       <!-- Punto 9 -->
-   
-    
+
+
       <!-- Punto 10-->
-    
+
      <div id="wrapper10"  class="hi-icon-wrap hi-icon-effect-8">
 	<div >
 		<a class=" " href="" title=" "><h1> </h1></a>
 	</div>
     </div>
-				
-				
-				
-				
+
+
+
+
 				<button class="action action--menu"><svg class="icon icon--menu"><use xlink:href="#icon-menu"></use></svg></button>
 				<button class="action action--close"><svg class="icon icon--close"><use xlink:href="#icon-close"></use></svg></button>
 			</nav>
 		</main>
-        
-        
-        
+
+
+
 		<script src="js/imagesloaded.pkgd.min.js"></script>
 		<script src="js/TweenMax.min.js"></script>
 		<script src="js/demo.js"></script>
@@ -135,7 +135,7 @@
 			var hash = window.location.hash,
 				current = 0,
 				demos = Array.prototype.slice.call( document.querySelectorAll( '#codrops-demos > a' ) );
-			
+
 			if( hash === '' ) hash = '#set-1';
 			setDemo( demos[ parseInt( hash.match(/#set-(\d+)/)[1] ) - 1 ] );
 
@@ -150,7 +150,7 @@
 					currentDemo.className = currentDemo.className.replace(new RegExp("(^|\\s+)" + 'current-demo' + "(\\s+|$)"), ' ');
 				}
 				current = idx;
-				el.className = 'current-demo'; 
+				el.className = 'current-demo';
 			}
 		</script>
 	</body>

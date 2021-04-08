@@ -4,7 +4,7 @@
 		<meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
 	
-		<title>Curaduría para el buen vivir común</title>
+		<title>Curating common Well-being</title>
 		
         <link rel="shortcut icon" href="favicon.ico">
         <link rel="stylesheet" type="text/css" href="css/styles.css" />
@@ -39,8 +39,8 @@
 			<nav class="menu">
                              <div id="titulo"  >
                                  <div class="container-enlarge">
-  <a href="intro2.html" title="INTRO">  <img src="css/1.png"></a>
-    <span> <a href="intro2.html"><img  src="img/TESTT.png"></a>  </span>
+  <a href="intro.html" title="INTRO">  <img src="css/1.png"></a>
+    <span> <a href="intro.html"><img  src="img/TESTT.png"></a>  </span>
     
   </div>
         <p class="zoom-area">   </p>
@@ -50,7 +50,7 @@
                 
                 <div id="wrapper99">
                 
-                <a class="suiche" href="index.html">English</a>
+                <a class="suiche" href="esp.html" >Español</a>
                 
                 </div>
                 
